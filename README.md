@@ -56,7 +56,9 @@ Questo archivio mostra la progressione formativa e la pratica quotidiana. Per un
 
 ## Stato
 
-Percorso formativo completato. Il repository rimane come documentazione del lavoro svolto durante il corso.
+Percorso formativo completato. Il repository rimane come documentazione del lavoro svolto durante il corso; non ha un backlog di prodotto globale.
+
+Per un ripasso scegliere una sola cartella e rispettarne configurazione e scopo originali. I nuovi progetti e le verifiche mirate vengono mantenuti nei repository dedicati, senza riscrivere retroattivamente l'archivio.
 
 ## Autore
 
